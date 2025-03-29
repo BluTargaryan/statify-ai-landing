@@ -1,5 +1,5 @@
 
-import CheckInComp from "./components/CheckInComp";
+
 import InputComp from "./components/InputComp";
 
 export default function Home() {
